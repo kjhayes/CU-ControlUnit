@@ -1,0 +1,3 @@
+>g++
+> CU.cpp
+ -o CU.exe

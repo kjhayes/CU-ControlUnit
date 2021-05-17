@@ -1,0 +1,7 @@
+Syntax For Files Run Using CU:
+
+[ ] Run Line With std::system()
+[>] Push Line To Front Stack
+[<] Pop Line From Front Stack
+[_>]Push Line To Back Stack
+[_<]Pop Line From Back Stack 
